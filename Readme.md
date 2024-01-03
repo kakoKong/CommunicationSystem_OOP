@@ -1,6 +1,6 @@
 # Project 1: Communication Simulation
 
-This project is fork guided from Introduction to OOP CMPE160 course for self-development purpose. All the text below are Readme.md from the repository
+This project is from guide from Introduction to OOP CMPE160 course for self-development purpose. All the text below are Readme.md from the repository
 
 Link: https://github.com/arasgungore/CMPE160-projects/tree/main/CommunicationSimulation
 
